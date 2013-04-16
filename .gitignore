@@ -1,2 +1,3 @@
 vendor/assets/javascripts/nvd3/.git.sample/*
 vendor/assets/javascripts/nvd3/.git/*
+nvd3-rails-*.gem
