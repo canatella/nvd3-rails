@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Manuel Knie", "Neal Kemp"]
   s.email       = ["manuel@adeven.com"]
-  s.homepage    = "http://nealke.mp"
+  s.homepage    = "http://github.com/NealKemp/nvd3-rails"
   s.summary     = "Use nvd3 with Rails 3"
   s.description = "This gem provides nvd3 for your Rails 3 application."
 
@@ -19,3 +19,4 @@ Gem::Specification.new do |s|
   s.executables  = `git ls-files -- bin/*`.split("\n").map { |f| File.basename(f) }
   s.require_path = 'lib'
 end
+g
