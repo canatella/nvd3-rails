@@ -35,3 +35,7 @@ If you only need a subset of models e.g. lineChart you can add:
     //= require nvd3/src/models/line.js
 
 to your ```application.js```
+
+## Credits
+
+This was originally a fork of ```https://github.com/adeven/nvd3-rails``` so most of the credit goes to adeven for making this. I just updated it to be compatible with ```asset_sync``` for Rails and uploaded it to RubyGems.
